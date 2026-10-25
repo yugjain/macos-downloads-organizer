@@ -1,0 +1,24 @@
+{
+  "rules": [
+    {
+      "pattern": "invoice|receipt|order",
+      "folder": "Invoices & Receipts"
+    },
+    {
+      "pattern": "tax|form-16|itr|w2|1099",
+      "folder": "Taxes & Financial"
+    },
+    {
+      "pattern": "resume|cv|curriculum vitae",
+      "folder": "Resumes"
+    },
+    {
+      "pattern": "flight|ticket|boarding pass|itinerary",
+      "folder": "Travel & Flights"
+    },
+    {
+      "pattern": "company_name.*sow|contract|agreement",
+      "folder": "Work & Contracts"
+    }
+  ]
+}
